@@ -259,35 +259,35 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(process, 'process', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(process, 'process', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queue, 'queue', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queue, 'queue', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(draining, 'draining', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(draining, 'draining', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(Item, 'Item', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(Item, 'Item', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(noop, 'noop', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(noop, 'noop', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/process/browser.js');
 }();
 
 ;
@@ -340,9 +340,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/emptyFunction.js");
 
-  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/emptyFunction.js");
 }();
 
 ;
@@ -435,9 +435,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/invariant.js');
 
-  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/invariant.js');
 }();
 
 ;
@@ -545,15 +545,15 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/object-assign/index.js');
 }();
 
 ;
@@ -587,7 +587,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/emptyObject.js');
+  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/emptyObject.js');
 }();
 
 ;
@@ -667,9 +667,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(warning, 'warning', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(warning, 'warning', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/warning.js');
 
-  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/warning.js');
 }();
 
 ;
@@ -748,9 +748,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/checkPropTypes.js');
 
-  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/checkPropTypes.js');
 }();
 
 ;
@@ -780,7 +780,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/lib/ReactPropTypesSecret.js');
+  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/lib/ReactPropTypesSecret.js');
 }();
 
 ;
@@ -830,9 +830,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/ExecutionEnvironment.js');
 
-  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/ExecutionEnvironment.js');
 }();
 
 ;
@@ -876,11 +876,11 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(transform, 'transform', 'E:/KODILLA PROJEKTY/ReactGAME/client/style.css');
+	__REACT_HOT_LOADER__.register(transform, 'transform', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/style.css');
 
-	__REACT_HOT_LOADER__.register(options, 'options', 'E:/KODILLA PROJEKTY/ReactGAME/client/style.css');
+	__REACT_HOT_LOADER__.register(options, 'options', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/style.css');
 
-	__REACT_HOT_LOADER__.register(update, 'update', 'E:/KODILLA PROJEKTY/ReactGAME/client/style.css');
+	__REACT_HOT_LOADER__.register(update, 'update', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/style.css');
 }();
 
 ;
@@ -971,7 +971,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/EventListener.js');
+  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/EventListener.js');
 }();
 
 ;
@@ -1056,11 +1056,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(is, 'is', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(is, 'is', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/shallowEqual.js');
 }();
 
 ;
@@ -1114,7 +1114,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/containsNode.js');
+  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/containsNode.js');
 }();
 
 ;
@@ -1155,7 +1155,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/focusNode.js');
+  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/focusNode.js');
 }();
 
 ;
@@ -1209,7 +1209,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/getActiveElement.js');
+  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/getActiveElement.js');
 }();
 
 ;
@@ -1307,9 +1307,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(App, 'App', 'E:/KODILLA PROJEKTY/ReactGAME/client/App.js');
+    __REACT_HOT_LOADER__.register(App, 'App', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/App.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'E:/KODILLA PROJEKTY/ReactGAME/client/App.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/App.js');
 }();
 
 ;
@@ -1555,59 +1555,59 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(t, "t", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(t, "t", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(u, "u", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(u, "u", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(v, "v", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(v, "v", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(w, "w", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(w, "w", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(x, "x", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(x, "x", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(y, "y", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(y, "y", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(z, "z", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(z, "z", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(A, "A", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(A, "A", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(B, "B", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(B, "B", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(C, "C", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(C, "C", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(D, "D", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(D, "D", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(E, "E", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(F, "F", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(F, "F", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(G, "G", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(G, "G", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(H, "H", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(H, "H", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(I, "I", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(I, "I", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(escape, "escape", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(escape, "escape", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(J, "J", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(J, "J", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(L, "L", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(L, "L", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(N, "N", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(N, "N", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(O, "O", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(O, "O", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(P, "P", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(P, "P", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(R, "R", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(R, "R", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(S, "S", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(S, "S", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react/cjs/react.production.min.js");
 }();
 
 ;
@@ -3371,7 +3371,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/index.js');
+  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/index.js');
 }();
 
 ;
@@ -5783,1023 +5783,1023 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(w, "w", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(w, "w", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ja, "ja", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ja, "ja", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ka, "ka", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ka, "ka", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(la, "la", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(la, "la", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oa, "oa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oa, "oa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pa, "pa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pa, "pa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ra, "ra", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ra, "ra", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qa, "qa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qa, "qa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sa, "sa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sa, "sa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ta, "ta", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ta, "ta", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ua, "ua", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ua, "ua", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wa, "wa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wa, "wa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xa, "xa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xa, "xa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(A, "A", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(A, "A", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(E, "E", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(F, "F", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(F, "F", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ya, "ya", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ya, "ya", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(za, "za", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(za, "za", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Aa, "Aa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Aa, "Aa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ba, "Ba", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ba, "Ba", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ea, "Ea", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ea, "Ea", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fa, "Fa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fa, "Fa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ga, "Ga", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ga, "Ga", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ha, "Ha", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ha, "Ha", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ia, "Ia", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ia, "Ia", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(La, "La", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(La, "La", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ma, "Ma", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ma, "Ma", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Na, "Na", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Na, "Na", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oa, "Oa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oa, "Oa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(G, "G", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(G, "G", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pa, "Pa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pa, "Pa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qa, "Qa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qa, "Qa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ra, "Ra", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ra, "Ra", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(J, "J", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(J, "J", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sa, "Sa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sa, "Sa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ta, "Ta", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ta, "Ta", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ua, "Ua", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ua, "Ua", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Va, "Va", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Va, "Va", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wa, "Wa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wa, "Wa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xa, "Xa", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xa, "Xa", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Za, "Za", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Za, "Za", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($a, "$a", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($a, "$a", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ab, "ab", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ab, "ab", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bb, "bb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bb, "bb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cb, "cb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cb, "cb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(db, "db", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(db, "db", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(eb, "eb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(eb, "eb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fb, "fb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fb, "fb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gb, "gb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gb, "gb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hb, "hb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hb, "hb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ib, "ib", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ib, "ib", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jb, "jb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jb, "jb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kb, "kb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kb, "kb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lb, "lb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lb, "lb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mb, "mb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mb, "mb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nb, "nb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nb, "nb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ob, "ob", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ob, "ob", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pb, "pb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pb, "pb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qb, "qb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qb, "qb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rb, "rb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rb, "rb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sb, "sb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sb, "sb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tb, "tb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tb, "tb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ub, "ub", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ub, "ub", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vb, "vb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vb, "vb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wb, "wb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wb, "wb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xb, "xb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xb, "xb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yb, "yb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yb, "yb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(L, "L", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(L, "L", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cb, "Cb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cb, "Cb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Db, "Db", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Db, "Db", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Eb, "Eb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Eb, "Eb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fb, "Fb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fb, "Fb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gb, "Gb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gb, "Gb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hb, "Hb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hb, "Hb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ib, "Ib", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ib, "Ib", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jb, "Jb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jb, "Jb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kb, "Kb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kb, "Kb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lb, "Lb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lb, "Lb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mb, "Mb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mb, "Mb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nb, "Nb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nb, "Nb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ob, "Ob", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ob, "Ob", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pb, "Pb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pb, "Pb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qb, "Qb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qb, "Qb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rb, "Rb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rb, "Rb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sb, "Sb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sb, "Sb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tb, "Tb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tb, "Tb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ub, "Ub", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ub, "Ub", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vb, "Vb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vb, "Vb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wb, "Wb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wb, "Wb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xb, "Xb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xb, "Xb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yb, "Yb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yb, "Yb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zb, "Zb", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zb, "Zb", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($b, "$b", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($b, "$b", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ac, "ac", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ac, "ac", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bc, "bc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bc, "bc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cc, "cc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cc, "cc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dc, "dc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dc, "dc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ec, "ec", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ec, "ec", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fc, "fc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fc, "fc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gc, "gc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gc, "gc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hc, "hc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hc, "hc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ic, "ic", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ic, "ic", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jc, "jc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jc, "jc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kc, "kc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kc, "kc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lc, "lc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lc, "lc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mc, "mc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mc, "mc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qc, "qc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qc, "qc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rc, "rc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rc, "rc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sc, "sc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sc, "sc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tc, "tc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tc, "tc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uc, "uc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uc, "uc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vc, "vc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vc, "vc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wc, "wc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wc, "wc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xc, "xc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xc, "xc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yc, "yc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yc, "yc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zc, "zc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zc, "zc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ac, "Ac", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ac, "Ac", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bc, "Bc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bc, "Bc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cc, "Cc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cc, "Cc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dc, "Dc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dc, "Dc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ec, "Ec", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ec, "Ec", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fc, "Fc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fc, "Fc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gc, "Gc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gc, "Gc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hc, "Hc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hc, "Hc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ic, "Ic", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ic, "Ic", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jc, "Jc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jc, "Jc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kc, "Kc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kc, "Kc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lc, "Lc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lc, "Lc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mc, "Mc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mc, "Mc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nc, "Nc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nc, "Nc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oc, "Oc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oc, "Oc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pc, "Pc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pc, "Pc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qc, "Qc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qc, "Qc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rc, "Rc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rc, "Rc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sc, "Sc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sc, "Sc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(N, "N", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(N, "N", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tc, "Tc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tc, "Tc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uc, "Uc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uc, "Uc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vc, "Vc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vc, "Vc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wc, "Wc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wc, "Wc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xc, "Xc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xc, "Xc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yc, "Yc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yc, "Yc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zc, "Zc", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zc, "Zc", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($c, "$c", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($c, "$c", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ad, "ad", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ad, "ad", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bd, "bd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bd, "bd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cd, "cd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cd, "cd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dd, "dd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dd, "dd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ed, "ed", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ed, "ed", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fd, "fd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fd, "fd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gd, "gd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gd, "gd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hd, "hd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hd, "hd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(id, "id", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(id, "id", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jd, "jd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jd, "jd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kd, "kd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kd, "kd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(md, "md", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(md, "md", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nd, "nd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nd, "nd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(od, "od", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(od, "od", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pd, "pd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pd, "pd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qd, "qd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qd, "qd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rd, "rd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rd, "rd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sd, "sd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sd, "sd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(td, "td", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(td, "td", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ud, "ud", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ud, "ud", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vd, "vd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vd, "vd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wd, "wd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wd, "wd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xd, "xd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xd, "xd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yd, "yd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yd, "yd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zd, "zd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zd, "zd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ad, "Ad", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ad, "Ad", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bd, "Bd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bd, "Bd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cd, "Cd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cd, "Cd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dd, "Dd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dd, "Dd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ed, "Ed", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ed, "Ed", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fd, "Fd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fd, "Fd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ld, "Ld", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ld, "Ld", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Md, "Md", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Md, "Md", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nd, "Nd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nd, "Nd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Od, "Od", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Od, "Od", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(R, "R", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(R, "R", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pd, "Pd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pd, "Pd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qd, "Qd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qd, "Qd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rd, "Rd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rd, "Rd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sd, "Sd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sd, "Sd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Td, "Td", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Td, "Td", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ud, "Ud", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ud, "Ud", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vd, "Vd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vd, "Vd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wd, "Wd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wd, "Wd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xd, "Xd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xd, "Xd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yd, "Yd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yd, "Yd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zd, "Zd", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zd, "Zd", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($d, "$d", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($d, "$d", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ae, "ae", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ae, "ae", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(be, "be", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(be, "be", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ce, "ce", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ce, "ce", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(de, "de", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(de, "de", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ee, "ee", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ee, "ee", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fe, "fe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fe, "fe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ge, "ge", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ge, "ge", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(he, "he", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(he, "he", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ie, "ie", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ie, "ie", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(je, "je", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(je, "je", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ke, "ke", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ke, "ke", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(le, "le", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(le, "le", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(me, "me", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(me, "me", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ne, "ne", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ne, "ne", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oe, "oe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oe, "oe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pe, "pe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pe, "pe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qe, "qe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qe, "qe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(re, "re", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(re, "re", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(se, "se", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(se, "se", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(te, "te", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(te, "te", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ue, "ue", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ue, "ue", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ve, "ve", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ve, "ve", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(we, "we", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(we, "we", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xe, "xe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xe, "xe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ye, "ye", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ye, "ye", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ze, "ze", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ze, "ze", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ae, "Ae", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ae, "Ae", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Be, "Be", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Be, "Be", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ce, "Ce", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ce, "Ce", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(De, "De", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(De, "De", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ee, "Ee", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ee, "Ee", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fe, "Fe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fe, "Fe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ge, "Ge", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ge, "Ge", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(He, "He", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(He, "He", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ie, "Ie", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ie, "Ie", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Je, "Je", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Je, "Je", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ke, "Ke", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ke, "Ke", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Le, "Le", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Le, "Le", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Me, "Me", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Me, "Me", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ne, "Ne", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ne, "Ne", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oe, "Oe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oe, "Oe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pe, "Pe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pe, "Pe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qe, "Qe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qe, "Qe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Re, "Re", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Re, "Re", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Se, "Se", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Se, "Se", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Te, "Te", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Te, "Te", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ue, "Ue", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ue, "Ue", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ve, "Ve", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ve, "Ve", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(We, "We", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(We, "We", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xe, "Xe", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xe, "Xe", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ye, "Ye", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ye, "Ye", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ze, "Ze", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ze, "Ze", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($e, "$e", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($e, "$e", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(af, "af", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(af, "af", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bf, "bf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bf, "bf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cf, "cf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cf, "cf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(df, "df", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(df, "df", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ef, "ef", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ef, "ef", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ff, "ff", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ff, "ff", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gf, "gf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gf, "gf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hf, "hf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hf, "hf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jf, "jf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jf, "jf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kf, "kf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kf, "kf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lf, "lf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lf, "lf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mf, "mf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mf, "mf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nf, "nf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nf, "nf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(of, "of", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(of, "of", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pf, "pf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pf, "pf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qf, "qf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qf, "qf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rf, "rf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rf, "rf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sf, "sf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sf, "sf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tf, "tf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tf, "tf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uf, "uf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uf, "uf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wf, "wf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wf, "wf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xf, "xf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xf, "xf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yf, "yf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yf, "yf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zf, "zf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zf, "zf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Af, "Af", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Af, "Af", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bf, "Bf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bf, "Bf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cf, "Cf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cf, "Cf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Df, "Df", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Df, "Df", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ef, "Ef", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ef, "Ef", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ff, "Ff", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ff, "Ff", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gf, "Gf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gf, "Gf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hf, "Hf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hf, "Hf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(If, "If", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(If, "If", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jf, "Jf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jf, "Jf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kf, "Kf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kf, "Kf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lf, "Lf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lf, "Lf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mf, "Mf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mf, "Mf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nf, "Nf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nf, "Nf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Of, "Of", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Of, "Of", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pf, "Pf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pf, "Pf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qf, "Qf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qf, "Qf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rf, "Rf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rf, "Rf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sf, "Sf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sf, "Sf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tf, "Tf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tf, "Tf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uf, "Uf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uf, "Uf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vf, "Vf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vf, "Vf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wf, "Wf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wf, "Wf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xf, "Xf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xf, "Xf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yf, "Yf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yf, "Yf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zf, "Zf", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zf, "Zf", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ag, "ag", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ag, "ag", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bg, "bg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bg, "bg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cg, "cg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cg, "cg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dg, "dg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dg, "dg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(eg, "eg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(eg, "eg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fg, "fg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fg, "fg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gg, "gg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gg, "gg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hg, "hg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hg, "hg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ig, "ig", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ig, "ig", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jg, "jg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jg, "jg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kg, "kg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kg, "kg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lg, "lg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lg, "lg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mg, "mg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mg, "mg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ng, "ng", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ng, "ng", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(og, "og", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(og, "og", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pg, "pg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pg, "pg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qg, "qg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qg, "qg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rg, "rg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rg, "rg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sg, "sg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sg, "sg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tg, "tg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tg, "tg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ug, "ug", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ug, "ug", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vg, "vg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vg, "vg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wg, "wg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wg, "wg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xg, "xg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xg, "xg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yg, "yg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yg, "yg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zg, "zg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zg, "zg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ag, "Ag", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ag, "Ag", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bg, "Bg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bg, "Bg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cg, "Cg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cg, "Cg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dg, "Dg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dg, "Dg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Eg, "Eg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Eg, "Eg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fg, "Fg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fg, "Fg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gg, "Gg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gg, "Gg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hg, "Hg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hg, "Hg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ig, "Ig", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ig, "Ig", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jg, "Jg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jg, "Jg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kg, "Kg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kg, "Kg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lg, "Lg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lg, "Lg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mg, "Mg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mg, "Mg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ng, "Ng", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ng, "Ng", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(T, "T", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(T, "T", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Og, "Og", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Og, "Og", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(U, "U", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(U, "U", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pg, "Pg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pg, "Pg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qg, "Qg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qg, "Qg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rg, "Rg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rg, "Rg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sg, "Sg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sg, "Sg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tg, "Tg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tg, "Tg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ug, "Ug", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ug, "Ug", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vg, "Vg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vg, "Vg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wg, "Wg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wg, "Wg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xg, "Xg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xg, "Xg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yg, "Yg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yg, "Yg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zg, "Zg", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zg, "Zg", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($g, "$g", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($g, "$g", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ah, "ah", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ah, "ah", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bh, "bh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bh, "bh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ch, "ch", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ch, "ch", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dh, "dh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dh, "dh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(eh, "eh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(eh, "eh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fh, "fh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fh, "fh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gh, "gh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gh, "gh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hh, "hh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hh, "hh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ih, "ih", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ih, "ih", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jh, "jh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jh, "jh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kh, "kh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kh, "kh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lh, "lh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lh, "lh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mh, "mh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mh, "mh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nh, "nh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nh, "nh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oh, "oh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oh, "oh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ph, "ph", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ph, "ph", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qh, "qh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qh, "qh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rh, "rh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rh, "rh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sh, "sh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sh, "sh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(th, "th", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(th, "th", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uh, "uh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uh, "uh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vh, "vh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vh, "vh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wh, "wh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wh, "wh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xh, "xh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xh, "xh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yh, "yh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yh, "yh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zh, "zh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zh, "zh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ah, "Ah", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ah, "Ah", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bh, "Bh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bh, "Bh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ch, "Ch", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ch, "Ch", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dh, "Dh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dh, "Dh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Eh, "Eh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Eh, "Eh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fh, "Fh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fh, "Fh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gh, "Gh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gh, "Gh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hh, "Hh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hh, "Hh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ih, "Ih", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ih, "Ih", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jh, "Jh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jh, "Jh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kh, "Kh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kh, "Kh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qh, "Qh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qh, "Qh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rh, "Rh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rh, "Rh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sh, "Sh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sh, "Sh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Th, "Th", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Th, "Th", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(X, "X", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(X, "X", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uh, "Uh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uh, "Uh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vh, "Vh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vh, "Vh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wh, "Wh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wh, "Wh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xh, "Xh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xh, "Xh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Y, "Y", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Y, "Y", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zh, "Zh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zh, "Zh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($h, "$h", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($h, "$h", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yh, "Yh", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yh, "Yh", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ai, "ai", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ai, "ai", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bi, "bi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bi, "bi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ci, "ci", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ci, "ci", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(di, "di", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(di, "di", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ei, "ei", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ei, "ei", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fi, "fi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fi, "fi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gi, "gi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gi, "gi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hi, "hi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hi, "hi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ii, "ii", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ii, "ii", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ji, "ji", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ji, "ji", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ki, "ki", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ki, "ki", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(li, "li", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(li, "li", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mi, "mi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mi, "mi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ni, "ni", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ni, "ni", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oi, "oi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oi, "oi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pi, "pi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pi, "pi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qi, "qi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qi, "qi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ri, "ri", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ri, "ri", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(si, "si", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(si, "si", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ti, "ti", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ti, "ti", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ui, "ui", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ui, "ui", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vi, "vi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vi, "vi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wi, "wi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wi, "wi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xi, "xi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xi, "xi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yi, "yi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yi, "yi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zi, "zi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zi, "zi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ai, "Ai", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ai, "Ai", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bi, "Bi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bi, "Bi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ci, "Ci", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ci, "Ci", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Di, "Di", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Di, "Di", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ei, "Ei", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ei, "Ei", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fi, "Fi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fi, "Fi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gi, "Gi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gi, "Gi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hi, "Hi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hi, "Hi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ii, "Ii", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ii, "Ii", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ji, "Ji", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ji, "Ji", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ki, "Ki", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ki, "Ki", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Li, "Li", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Li, "Li", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mi, "Mi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mi, "Mi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ni, "Ni", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ni, "Ni", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oi, "Oi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oi, "Oi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pi, "Pi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pi, "Pi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qi, "Qi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qi, "Qi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ri, "Ri", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ri, "Ri", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Si, "Si", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Si, "Si", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ti, "Ti", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ti, "Ti", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zi, "Zi", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zi, "Zi", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($i, "$i", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($i, "$i", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(aj, "aj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(aj, "aj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bj, "bj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bj, "bj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cj, "cj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cj, "cj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dj, "dj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dj, "dj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ej, "ej", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ej, "ej", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fj, "fj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fj, "fj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gj, "gj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gj, "gj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hj, "hj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hj, "hj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ij, "ij", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ij, "ij", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jj, "jj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jj, "jj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kj, "kj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kj, "kj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lj, "lj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lj, "lj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mj, "mj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mj, "mj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nj, "nj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nj, "nj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oj, "oj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oj, "oj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pj, "pj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pj, "pj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qj, "qj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qj, "qj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rj, "rj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rj, "rj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sj, "sj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sj, "sj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Z, "Z", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Z, "Z", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tj, "tj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tj, "tj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uj, "uj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uj, "uj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vj, "vj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vj, "vj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wj, "wj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wj, "wj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xj, "xj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xj, "xj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yj, "yj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yj, "yj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zj, "zj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zj, "zj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Aj, "Aj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Aj, "Aj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bj, "Bj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bj, "Bj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cj, "Cj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cj, "Cj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dj, "Dj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dj, "Dj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ej, "Ej", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ej, "Ej", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fj, "Fj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fj, "Fj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gj, "Gj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gj, "Gj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hj, "Hj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hj, "Hj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ij, "Ij", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ij, "Ij", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jj, "Jj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jj, "Jj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kj, "Kj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kj, "Kj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lj, "Lj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lj, "Lj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mj, "Mj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mj, "Mj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nj, "Nj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nj, "Nj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oj, "Oj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oj, "Oj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pj, "Pj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pj, "Pj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qj, "Qj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qj, "Qj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rj, "Rj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rj, "Rj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sj, "Sj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sj, "Sj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tj, "Tj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tj, "Tj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uj, "Uj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uj, "Uj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vj, "Vj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vj, "Vj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wj, "Wj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wj, "Wj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yj, "Yj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yj, "Yj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zj, "Zj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zj, "Zj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ak, "ak", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ak, "ak", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bk, "bk", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bk, "bk", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xj, "Xj", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xj, "Xj", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ck, "ck", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ck, "ck", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dk, "dk", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dk, "dk", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ek, "ek", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ek, "ek", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-dom/cjs/react-dom.production.min.js");
 }();
 
 ;
@@ -6838,7 +6838,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/isTextNode.js');
+  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/isTextNode.js');
 }();
 
 ;
@@ -6880,7 +6880,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/isNode.js');
+  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/isNode.js');
 }();
 
 ;
@@ -10338,9 +10338,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/hyphenateStyleName.js');
 
-  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/hyphenateStyleName.js');
 }();
 
 ;
@@ -10387,9 +10387,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/hyphenate.js');
 
-  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/hyphenate.js');
 }();
 
 ;
@@ -10443,9 +10443,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/camelizeStyleName.js');
 
-  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/camelizeStyleName.js');
 }();
 
 ;
@@ -10491,9 +10491,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/camelize.js");
 
-  __REACT_HOT_LOADER__.register(camelize, "camelize", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(camelize, "camelize", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/camelize.js");
 }();
 
 ;
@@ -10541,7 +10541,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(performanceNow, 'performanceNow', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/performanceNow.js');
+  __REACT_HOT_LOADER__.register(performanceNow, 'performanceNow', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/performanceNow.js');
 }();
 
 ;
@@ -10578,7 +10578,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(performance, 'performance', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/fbjs/lib/performance.js');
+  __REACT_HOT_LOADER__.register(performance, 'performance', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/fbjs/lib/performance.js');
 }();
 
 ;
@@ -10619,11 +10619,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(REACT_ELEMENT_TYPE, 'REACT_ELEMENT_TYPE', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/index.js');
+  __REACT_HOT_LOADER__.register(REACT_ELEMENT_TYPE, 'REACT_ELEMENT_TYPE', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/index.js');
 
-  __REACT_HOT_LOADER__.register(isValidElement, 'isValidElement', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/index.js');
+  __REACT_HOT_LOADER__.register(isValidElement, 'isValidElement', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/index.js');
 
-  __REACT_HOT_LOADER__.register(throwOnDirectAccess, 'throwOnDirectAccess', 'E:/KODILLA PROJEKTY/ReactGAME/node_modules/prop-types/index.js');
+  __REACT_HOT_LOADER__.register(throwOnDirectAccess, 'throwOnDirectAccess', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/prop-types/index.js');
 }();
 
 ;
@@ -11240,7 +11240,7 @@ exports = module.exports = __webpack_require__(39)(undefined);
 
 
 // module
-exports.push([module.i, "\r\n._3ZWIq8305C1ow2kFNZm3KP {\r\n    text-align: center;\r\n}\r\n\r\n._3x77v0O9Hd5q4teIfzp-n3 {\r\n    background: #3f575f;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n}\r\n\r\n._1NaSzHJlawqo-AhF8zcq48 {\r\n    background: #b2cebb;\r\n    color: black;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n}\r\n\r\n.k-0Szfb_hQBb4s2CSi9-t {\r\n    background: #ad3131;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n}\r\n\r\n._20ydtT2eiY6ix89ttSA2qe {\r\n    text-align: center;\r\n    font-family: inherit;\r\n    font-size: 35px;\r\n}\r\n\r\n._2uP-t-HOGdVOYVhmBDC7_w {\r\n    width: 20%;\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n._3ltZc62ZO7oi10pZO2AkYI {\r\n    width: 20%;\r\n    display: flex;\r\n}\r\n._86CT3V4d1U7R5KzYd4NVy {\r\n    align-items: center;\r\n}\r\n\r\n._2C9I-J4pkVws7k494at-5D {\r\n    padding: 10px;\r\n    margin: 12px;\r\n    border-radius: 4px;\r\n    border: none;\r\n    width: 90px;\r\n}\r\n\r\n._2C9I-J4pkVws7k494at-5D:hover {\r\n    cursor: pointer;\r\n}\r\n\r\nspan {\r\n    font-size: 20px;\r\n    margin: 5px;\r\n}\r\n\r\n._3bHL7y7b_R8VebKIWerwod {\r\n    margin: auto;\r\n    background: #f6f6ff;\r\n    font-family: sans-serif;\r\n    color: #111115;\r\n    font-size: 25px;\r\n    padding: 10px 20px 10px 20px;\r\n    text-decoration: none;\r\n    border-radius: 10px;\r\n}\r\n\r\n._1UzBd9l9eW0yIYsVzv7cNT {\r\n    display: flex;\r\n    justify-content: space-around;\r\n    margin: 20px;\r\n    height: 30px;\r\n    font-size: 21px;\r\n    font-family: sans-serif;\r\n}\r\n", ""]);
+exports.push([module.i, "\r\n._3ZWIq8305C1ow2kFNZm3KP {\r\n    text-align: center;\r\n    display: flex;\r\n    flex-direction: column;\r\n}\r\n\r\n._3x77v0O9Hd5q4teIfzp-n3 {\r\n    background: #3f575f;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n    margin-right: 5px;\r\n}\r\n\r\n._1NaSzHJlawqo-AhF8zcq48 {\r\n    background: #b2cebb;\r\n    color: black;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n    margin-right: 5px;\r\n}\r\n\r\n.k-0Szfb_hQBb4s2CSi9-t {\r\n    background: #ad3131;\r\n    padding: 15px;\r\n    color: white;\r\n    border-radius: 5px;\r\n    margin-right: 5px;\r\n}\r\n\r\n._20ydtT2eiY6ix89ttSA2qe {\r\n    text-align: center;\r\n    font-family: inherit;\r\n    font-size: 35px;\r\n}\r\n\r\n._86CT3V4d1U7R5KzYd4NVy {\r\n    align-items: center;\r\n}\r\n\r\n._2C9I-J4pkVws7k494at-5D {\r\n    padding: 10px;\r\n    margin: 12px;\r\n    border-radius: 4px;\r\n    border: none;\r\n    width: 90px;\r\n    font-weight: 700;\r\n}\r\n\r\n._2C9I-J4pkVws7k494at-5D:hover {\r\n    cursor: pointer;\r\n}\r\n\r\nh3 span {\r\n    font-size: 20px;\r\n    margin: 5px;\r\n}\r\n\r\n._3bHL7y7b_R8VebKIWerwod {\r\n    margin: auto;\r\n    background: #f6f6ff;\r\n    font-family: sans-serif;\r\n    color: #111115;\r\n    font-size: 25px;\r\n    padding: 10px 20px 10px 20px;\r\n    text-decoration: none;\r\n    border-radius: 10px;\r\n}\r\n._2QzDzLC5UTwM7cHK12UxvN {\r\n    font-family: inherit;\r\n    font-weight: unset;\r\n    font-size: 50px;\r\n}\r\n._1UzBd9l9eW0yIYsVzv7cNT {\r\n    display: flex;\r\n    justify-content: space-around;\r\n    padding: 10px;\r\n    height: 30px;\r\n    margin-left: 30px;\r\n    font-size: 21px;\r\n    font-family: sans-serif;\r\n}\r\n\r\n._1hewbp5LkBe6Iigz8beVlj {\r\n    display: flex;\r\n    padding: 10px;\r\n    justify-content: space-evenly;\r\n    margin-left: 60px;\r\n    height: 30px;\r\n    font-size: 21px;\r\n    font-family: sans-serif;\r\n}\r\n._1yulO5xoi4_DHs5BKUNX8M {\r\n    font-size: 35px;\r\n    font-family: sans-serif;\r\n    font-weight: 700;\r\n    color: #889c8f;\r\n}\r\n", ""]);
 
 // exports
 exports.locals = {
@@ -11249,12 +11249,13 @@ exports.locals = {
 	"paper": "_1NaSzHJlawqo-AhF8zcq48",
 	"scissors": "k-0Szfb_hQBb4s2CSi9-t",
 	"style-title": "_20ydtT2eiY6ix89ttSA2qe",
-	"row-center1": "_2uP-t-HOGdVOYVhmBDC7_w",
-	"row-center2": "_3ltZc62ZO7oi10pZO2AkYI",
 	"buttonStart": "_86CT3V4d1U7R5KzYd4NVy",
 	"btn": "_2C9I-J4pkVws7k494at-5D",
 	"buttonReset": "_3bHL7y7b_R8VebKIWerwod",
-	"row": "_1UzBd9l9eW0yIYsVzv7cNT"
+	"style": "_2QzDzLC5UTwM7cHK12UxvN",
+	"row": "_1UzBd9l9eW0yIYsVzv7cNT",
+	"row2": "_1hewbp5LkBe6Iigz8beVlj",
+	"styleWin": "_1yulO5xoi4_DHs5BKUNX8M"
 };
 
 /***/ }),
@@ -11342,9 +11343,9 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/css-loader/lib/css-base.js");
 
-	__REACT_HOT_LOADER__.register(toComment, "toComment", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(toComment, "toComment", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/css-loader/lib/css-base.js");
 }();
 
 ;
@@ -11861,8 +11862,8 @@ var Results = function (_React$Component) {
             playerPick: '',
             playerScore: 0,
             computerScore: 0,
-            computerChoice: 'Computer choice',
-            playerChoice: 'Player choice',
+            computerChoice: 'Computer',
+            playerChoice: 'Player',
             computerResult: 'Wynik',
             playerResult: 'Wynik'
         };
@@ -11915,13 +11916,13 @@ var Results = function (_React$Component) {
     }, {
         key: 'checkResult',
         value: function checkResult() {
-            if (this.state.computerScore >= 10) {
+            if (this.state.computerScore == 5) {
                 this.setState({
                     computerResult: 'Winner is Computer',
                     playerResult: '',
                     show: false
                 });
-            } else if (this.state.playerScore >= 10) {
+            } else if (this.state.playerScore == 5) {
                 this.setState({
                     playerResult: 'Winner is ' + this.state.playerName,
                     computerResult: '',
@@ -11978,7 +11979,7 @@ var Results = function (_React$Component) {
                 ),
                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                     'h3',
-                    { style: { display: this.state.show ? 'none' : 'block' } },
+                    { style: { display: this.state.show ? 'none' : 'block' }, className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.styleWin },
                     this.state.computerResult,
                     this.state.playerResult
                 ),
@@ -11995,18 +11996,15 @@ var Results = function (_React$Component) {
                     }),
                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                         'div',
-                        { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.row },
+                        { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.row2 },
                         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                             'div',
                             { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.row_center1 },
                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                 'span',
                                 { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.badge },
-                                this.state.playerName
-                            ),
-                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                                'span',
-                                { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.badge },
+                                this.state.playerName,
+                                ' ',
                                 this.state.playerScore
                             )
                         ),
@@ -12021,9 +12019,9 @@ var Results = function (_React$Component) {
                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                 'span',
                                 { className: __WEBPACK_IMPORTED_MODULE_1__style_css___default.a.badge },
-                                this.state.computerScore
-                            ),
-                            'Computer'
+                                this.state.computerScore,
+                                ' Computer'
+                            )
                         )
                     ),
                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
@@ -12104,9 +12102,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Results, 'Results', 'E:/KODILLA PROJEKTY/ReactGAME/client/results.js');
+    __REACT_HOT_LOADER__.register(Results, 'Results', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/results.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'E:/KODILLA PROJEKTY/ReactGAME/client/results.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/results.js');
 }();
 
 ;
@@ -12182,9 +12180,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(PlayerPick, 'PlayerPick', 'E:/KODILLA PROJEKTY/ReactGAME/client/PlayerPick.js');
+    __REACT_HOT_LOADER__.register(PlayerPick, 'PlayerPick', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/PlayerPick.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'E:/KODILLA PROJEKTY/ReactGAME/client/PlayerPick.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/client/PlayerPick.js');
 }();
 
 ;
@@ -12344,17 +12342,17 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_possibleConstructorReturn, "_possibleConstructorReturn", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_possibleConstructorReturn, "_possibleConstructorReturn", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_inherits, "_inherits", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_inherits, "_inherits", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(Component, "Component", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(Component, "Component", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(AppContainer, "AppContainer", "E:/KODILLA PROJEKTY/ReactGAME/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(AppContainer, "AppContainer", "C:/Users/Tobi/Desktop/Pulpit/roz/React-webpack-Game/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 }();
 
 ;

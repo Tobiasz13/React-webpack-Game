@@ -1,0 +1,83 @@
+
+.container {
+    text-align: center;
+}
+
+.stone {
+    background: #3f575f;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.paper {
+    background: #b2cebb;
+    color: black;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.scissors {
+    background: #ad3131;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.style-title {
+    text-align: center;
+    font-family: inherit;
+    font-size: 35px;
+}
+
+.row-center1 {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.row-center2 {
+    width: 20%;
+    display: flex;
+}
+.buttonStart {
+    align-items: center;
+}
+
+.btn {
+    padding: 10px;
+    margin: 12px;
+    border-radius: 4px;
+    border: none;
+    width: 90px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+span {
+    font-size: 20px;
+    margin: 5px;
+}
+
+.buttonReset {
+    margin: auto;
+    background: #f6f6ff;
+    font-family: sans-serif;
+    color: #111115;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    height: 30px;
+    font-size: 21px;
+    font-family: sans-serif;
+}

@@ -8,7 +8,7 @@ class App extends React.Component {
             <div>
                 <div className={styles.container}>
                     <h1 className={styles.style}>Witaj w grze</h1>
-                    <h3 className={styles.text }>
+                    <h3 className={styles.text}>
                         <span className={styles.stone }>Kamień</span>
                         <span className={styles.paper}>Papier</span>
                         <span className={styles.scissors}>Nożyce</span>

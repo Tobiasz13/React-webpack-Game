@@ -11,8 +11,8 @@ export default class Results extends React.Component {
             playerPick: '',
             playerScore: 0,
             computerScore: 0,
-            computerChoice: 'Computer choice',
-            playerChoice: 'Player choice',
+            computerChoice: 'Computer',
+            playerChoice: 'Player',
             computerResult: 'Wynik',
             playerResult: 'Wynik',
         }
@@ -62,14 +62,14 @@ export default class Results extends React.Component {
     }
 
     checkResult() {
-        if (this.state.computerScore >= 10) {
+        if (this.state.computerScore == 5) {
             this.setState({
                 computerResult: 'Winner is Computer',
                 playerResult: '',
                 show: false
             })
 
-        } else if (this.state.playerScore >= 10) {
+        } else if (this.state.playerScore == 5) {
             this.setState({
                 playerResult: 'Winner is ' + this.state.playerName,
                 computerResult: '',
@@ -114,7 +114,7 @@ export default class Results extends React.Component {
                 <button className={styles.buttonReset} onClick={() => this.restartGame()} style={{display: this.state.show ? 'none' : 'block'}}>
                     New Game
                 </button>
-                <h3 style={{display: this.state.show ? 'none' : 'block'}}>
+                <h3 style={{display: this.state.show ? 'none' : 'block'}} className={styles.styleWin}>
                     {this.state.computerResult}
                     {this.state.playerResult}
                 </h3>
@@ -123,13 +123,10 @@ export default class Results extends React.Component {
                         getPlayerPick={playerPick => this.getPlayerPick(playerPick)}
                         restartGamee = {() => this.restartGame()}
                     />
-                    <div className={styles.row}>
+                    <div className={styles.row2}>
                         <div className={styles.row_center1}>
                             <span className={styles.badge}>
-                                {this.state.playerName}
-                            </span>
-                            <span className={styles.badge}>
-                                {this.state.playerScore}
+                                {this.state.playerName} {this.state.playerScore}
                             </span>
                         </div>
                         <div className={styles.row_center}>
@@ -137,11 +134,11 @@ export default class Results extends React.Component {
                         </div>
                         <div className={styles.row_center2}>
                             <span className={styles.badge}>
-                                {this.state.computerScore}
+                                {this.state.computerScore} Computer
                             </span>
-                                Computer
                         </div>
                     </div>
+
                     <div className={styles.row}>
                         <div className={styles.row_center}>
                             <span>
@@ -154,6 +151,7 @@ export default class Results extends React.Component {
                             </span>
                         </div>
                     </div>
+
                     <div className={styles.row}>
                         <div className={styles.row_center}>
                             <span>
